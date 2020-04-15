@@ -1,0 +1,16 @@
+@import "./variables";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+    margin-top: 0;
+    padding: 0;
+    margin-right: 130px;
+    margin-left: 130px;
+    align-items: center;
+    // border: 2px solid red;
+    font-size: 18px;
+}

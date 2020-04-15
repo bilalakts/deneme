@@ -1,0 +1,28 @@
+@import "./variables";
+
+footer{
+    margin-top: 150px;
+    position: relative;
+    left: 18em;
+    width: 50%;
+    border-top: 2px solid $c-gray-30;
+}
+
+.footer-container{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-link:link{
+    text-decoration: none;
+}
+
+.footer-link{
+    color: $c-gray-80;
+}
+.footer-link:hover{
+    cursor: pointer;
+    color: $c-hover;
+}

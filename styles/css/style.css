@@ -3,7 +3,7 @@
   box-sizing: border-box; }
 
 body {
-  background-color: #fff;
+  background-color: blanchedalmond;
   margin-top: 0;
   padding: 0;
   margin-right: 130px;
@@ -109,7 +109,8 @@ main {
   margin-top: 20px; }
 
 .all-links {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto',
+ sans-serif;
   font-weight: 400; }
 
 footer {
